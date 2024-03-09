@@ -1,1 +1,3 @@
 # Snake-Game
+
+I've recently developed my first-ever game, a classic snake game with a retro twist. In this game, players control a snake as it navigates a grid-like environment, gobbling up food to grow longer while avoiding collisions with the walls and its own tail. The visuals feature a charming, pixelated aesthetic reminiscent of old-school arcade games. Despite being a newcomer to game development, I'm thrilled with the outcome of my project and proud of what I've accomplished. It's been an exciting journey bringing this game to life, and I'm eager to continue learning and improving my skills in game development.
